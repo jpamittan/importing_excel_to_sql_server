@@ -41,8 +41,11 @@ Setup:
 6.  Executing the script via Command Prompt/PowerShell/Terminal to start importing.
 
     Arguments:
+    
     -e | --excel : Path location of excel file tobe imported to SQL Server.
+
     -t | --table : Target table name where to be inserted.
+
     -b | --batch : Enable batch mode upload.
 
     a. Importing by row.
