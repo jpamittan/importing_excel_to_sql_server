@@ -1,0 +1,9 @@
+{
+    "db": {
+        "host": "locahost",
+        "port": 1433,
+        "database": "ExcelImportDB",
+        "username": "sa",
+        "password": "password123"
+    }
+}
