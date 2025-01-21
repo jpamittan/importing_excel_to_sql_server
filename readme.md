@@ -27,18 +27,22 @@ Setup:
 1.  Open config.json file. Change the database connection and user authentication credentials.
 
 2.  Open Command Prompt/PowerShell/Terminal. Change directory to the project folder
-    cd <path>/import_excel_sql
+
+    cd path_to_project_folder/import_excel_sql
 
 3.  Create Python virtual environment.
+
     python -m venv .venv
 
-4.  Activating virtual environment.
+5.  Activating virtual environment.
+
     source .venv/Scripts/activate
 
-5.  To install dependencies.
+6.  To install dependencies.
+
     pip install -r requirements.txt
 
-6.  Executing the script via Command Prompt/PowerShell/Terminal to start importing.
+8.  Executing the script via Command Prompt/PowerShell/Terminal to start importing.
 
     Arguments:
     
